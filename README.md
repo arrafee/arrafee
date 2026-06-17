@@ -4,16 +4,14 @@
 
 I'm a Fullstack Developer with a background in Information Systems and experience in building web applications using ReactJS, Laravel, and CodeIgniter. I enjoy creating responsive user interfaces, developing scalable backend systems, and solving real-world problems through technology.
 
-- 🌱 Currently learning: TypeScript, Next.js, Docker
 - 💼 Working as: Web Developer
 - 🎓 Information Systems Graduate
-- 🚀 Interested in Fullstack Development, Backend Development, and Software Engineering
+- 🚀 Interested in Fullstack Development, Frontend Development, Backend Development, and Software Engineering
 - 📍 Bangkalan, East Java, Indonesia
 
 ## 📫 Connect with Me
 
-- LinkedIn: www.linkedin.com/in/nurmaulanaarrafi
-- GitHub: github.com/arrafee
+- LinkedIn: [Nur Maulana Arrafi](https://www.linkedin.com/in/nurmaulanaarrafi/)
 - Email: arrafi2502@gmail.com
 
 ---
@@ -44,19 +42,10 @@ I'm a Fullstack Developer with a background in Information Systems and experienc
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Portfolio
 
-### 📌 SmartLab Inventory
-Laboratory inventory management system with booking and borrowing management features built using Laravel and ReactJS.
-
-### 📌 WINLABINFOR
-Web-based laboratory inventory management system developed using Laravel and TailwindCSS.
-
-### 📌 School Library Information System
-Web application for managing books, members, and borrowing transactions with QR Code-based student identification.
-
-### 📌 Agriplant
-Final project of Alterra Academy MSIB Program. Agricultural web application built using ReactJS.
+View my portfolio here:
+- Portfolio: [Portfolio Project](https://drive.google.com/file/d/11OwasN2WiGiC3jcfL-5eb75xoXz_LyQU/view)
 
 ---
 

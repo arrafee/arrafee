@@ -1,90 +1,73 @@
-# 👋 Hi, I'm Nur Maulana Arrafi
+# Hi there 👋, I'm Nur Maulana Arrafi
 
-💻 Web Developer with experience in building web applications using Laravel, ReactJS, and modern web technologies.
+### Fullstack Developer | Web Developer
 
-🎓 Information Systems Graduate from Universitas Trunojoyo Madura.
+I'm a Fullstack Developer with a background in Information Systems and experience in building web applications using ReactJS, Laravel, and CodeIgniter. I enjoy creating responsive user interfaces, developing scalable backend systems, and solving real-world problems through technology.
 
-🌱 Currently focusing on Backend Development, Fullstack Development, and Software Engineering best practices.
+- 🌱 Currently learning: TypeScript, Next.js, Docker
+- 💼 Working as: Web Developer
+- 🎓 Information Systems Graduate
+- 🚀 Interested in Fullstack Development, Backend Development, and Software Engineering
+- 📍 Bangkalan, East Java, Indonesia
 
----
+## 📫 Connect with Me
 
-## 🚀 About Me
-
-* 💼 1+ year experience as a Web Developer
-* 🔭 Interested in Backend Development and Fullstack Development
-* 🌱 Currently learning TypeScript, Next.js, Docker, and modern web development practices
-* 🏫 Information Systems Graduate from Universitas Trunojoyo Madura
-* 👨‍💻 Experience with Laravel, ReactJS, CodeIgniter, JavaScript, PHP, and MySQL
-* 🤝 Active in technology communities and collaborative software development projects
-* 📫 Reach me at: **[arrafi2502@gmail.com](mailto:arrafi2502@gmail.com)**
+- LinkedIn: www.linkedin.com/in/nurmaulanaarrafi
+- GitHub: github.com/arrafee
+- Email: arrafi2502@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge\&logo=codeIgniter\&logoColor=white)
+## 💻 Tech Stack
 
 ### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-### Tools & Database
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### SmartLab Inventory
-
-Web-based laboratory inventory management system with booking and reminder features.
-
-**Tech Stack:**
-Laravel, ReactJS, Inertia.js, MySQL
-
-### Retail Cashier System
-
-Web application for managing sales transactions, inventory, and reports.
-
-**Tech Stack:**
-PHP, JavaScript, CodeIgniter, Bootstrap
-
-### Knowledge-Based Management System
-
-Web application developed to support knowledge sharing and management processes.
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=arrafee\&theme=tokyonight\&hide_border=true\&include_all_commits=true)
+### 📌 SmartLab Inventory
+Laboratory inventory management system with booking and borrowing management features built using Laravel and ReactJS.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arrafee\&theme=tokyonight\&hide_border=true)
+### 📌 WINLABINFOR
+Web-based laboratory inventory management system developed using Laravel and TailwindCSS.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrafee\&theme=tokyonight\&hide_border=true\&layout=compact)
+### 📌 School Library Information System
+Web application for managing books, members, and borrowing transactions with QR Code-based student identification.
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](YOUR_INSTAGRAM_URL)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:arrafi2502@gmail.com)
+### 📌 Agriplant
+Final project of Alterra Academy MSIB Program. Agricultural web application built using ReactJS.
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=arrafee\&icon=5\&color=12)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=arrafee&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=arrafee&theme=github-dark-blue)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrafee&layout=compact&theme=github_dark)
+
+---
+
+⭐ Always open to learning new technologies and collaborating on interesting projects.
